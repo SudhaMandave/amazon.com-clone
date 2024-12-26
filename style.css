@@ -20,7 +20,7 @@
 }
 
 .logo{
-  background-image: url("pics/amazon_logo.png");
+  background-image: url("amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -184,7 +184,6 @@ span{
   background-color: #e2e7e6;
 }
 
-
 .box{
   height: 400px;
   width: 23%;
@@ -259,7 +258,7 @@ ul a{
 }
 
 .logo{
-  background-image: url("pics/amazon_logo.png");
+  background-image: url("amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100px;
